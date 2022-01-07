@@ -1,0 +1,109 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.color{
+    color: rgb(245, 163, 12);
+    margin-top: -30px;
+}
+.border-img{
+    border-left: solid 5px;
+    border-image: linear-gradient(rgb(238, 39, 39), rgb(214, 87, 87));
+    border-image-slice: 1;
+   
+}
+h1{
+    font-size: 45px;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 80px;
+   
+}
+.half-width img{
+    width: 60%;
+}
+button{
+    text-decoration: none;
+    background-color: rgb(247, 74, 103);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    border-color: white;
+}
+.mission-area{
+    font-size: 40px;
+    text-align: center;
+    
+}
+.manage-width{
+    width: 33%;
+    margin-left: 30px;
+    padding-left: 20px;
+    border-radius: 10px;
+
+}
+.mission-section{
+    
+   padding-left: 17%;
+}
+#mission{
+    width: 20%;
+    background-color: rgb(202, 231, 243);
+}
+#vission{
+    width: 20%;
+    background-color: rgb(240, 195, 203);
+}
+#goals{
+    width: 20%;
+    background-color: rgb(219, 188, 161);
+}
+.manage-width img{
+    width: 50%;
+}
+.half-width2{
+    width: 100;
+    padding: 80px;
+}
+.half-width2 img{
+    width: 80%;
+}
+#half-width2-text{
+    margin-right: 200px;
+    width: 200%;
+    margin-left: -80px;
+}
+.dream-section{
+    text-align: center;
+}
+.half-width3{
+    width: 30%;
+    margin-left: 30px;
+    padding-left: 20px;
+    border-radius: 10px;
+    background-color: powderblue;
+   
+}
+.margin{
+    margin-left: 19%;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    margin-top: 10px;
+    
+    
+}
+.footer-color{
+    color: white;
+}
+.footer{
+    color: gainsboro;
+    
+}
+.footer-mission{
+    padding-bottom: -20px;
+}
